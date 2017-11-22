@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+    <style>
+        .radius {
+            background: #f0f0f0;
+            border: 1px solid black;
+            padding: 15px;
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div style="background-color:#006acf; width:1350px;height:640px">
+        <br /><br />
+        <div style="background-color:#2b2b2b;width:1270px;height:40px;margin-left:30px;">
+            <center><label style="font-size:25px;color:white;position:absolute;margin-top:10px">NEWS</label></center>
+        </div><br />
+        <div style="background-color:#bfbfbf;width:1250px;height:40px;margin-left:40px;">
+            <p style="position:absolute;margin-top:10px;margin-left:20px">Art&nbsp;&nbsp;&nbsp;&nbsp;Business&nbsp;&nbsp;&nbsp;&nbsp;Real Estate&nbsp;&nbsp;&nbsp;&nbsp;Finance</p>
+        </div><br />
+        <div style="width:1270px;height:400px;border:1px solid white;margin-left:30px">
+            <div style="position:absolute;margin-left:850px;margin-top:20px;width:400px;height:370px; color:white;">
+                <center><label style="font-size:20px;">Sign Up</label></center><br />
+                Full Name <input type="text" value="Type Your Name" style="position:absolute;margin-left:50px;height:30px"/><br /><br /><br />
+                Email Address <input type="text" value="Type Your Email" style="position:absolute;margin-left:23px;height:30px" /><br /><br /><br />
+                Birthday <input type="text" value="mm/dd/yyyy" style="position:absolute;margin-left:62px;height:30px" /><br /><br /><br />
+                Gender <select style="position:absolute;margin-left:65px;width:150px;height:30px">
+                <option>Male</option>
+                <option>Female</option>
+                </select><br /><br /><br />
+                <input type="submit" value="Next Step" style="position:absolute;margin-left:100px;height:30px" />
+             </div>
+            <br /><div style="background-color:#9d9d9d;width:800px;height:150px;position:absolute;margin-left:20px">
+            <h2>&nbsp;&nbsp;Your Header</h2>
+            <p>&nbsp;&nbsp;&nbsp;Your Pragraph</p>
+            </div>
+            <br /><br /><br /><br /><br /><br /><br /><br /><br />
+            <div style="background-color:#9d9d9d;width:800px;height:160px;position:absolute;margin-left:20px">
+                <h2>&nbsp;&nbsp;Your Header</h2>
+                <p>&nbsp;&nbsp;&nbsp;Your Pragraph</p>
+            </div>
+        </div><br />
+        <div style="border-radius: 40px 10px; width:100px;height:10px;position:absolute;margin-left:800px" class="radius">
+            Niki & Amir
+        </div>
+        <div style="border-radius: 40px 10px; width:125px;height:10px;position:absolute;margin-left:950px" class="radius">
+            Multimedia Project
+        </div>
+        <div style="border-radius: 40px 10px; width:90px;height:10px;position:absolute;margin-left:1135px" class="radius">
+            900559344
+        </div>
+   </div>
+</body>
+</html>
